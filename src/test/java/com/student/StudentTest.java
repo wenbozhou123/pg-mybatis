@@ -64,7 +64,5 @@ public class StudentTest {
 
         sqlSession.commit();
         sqlSession.close();
-
-
     }
 }
